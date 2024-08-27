@@ -1,0 +1,23 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "Ahmet Yılmaz",
+        "email": "ahmetyilmaz@example.com",
+        "age": 28
+      },
+      {
+        "id": 2,
+        "name": "Elif Demir",
+        "email": "elifdemir@example.com",
+        "age": 34
+      },
+      {
+        "id": 3,
+        "name": "Mehmet Kaya",
+        "email": "mehmetkaya@example.com",
+        "age": 22
+      }
+    ]
+  }
+  
